@@ -36,7 +36,6 @@ To run the game, you need the following:
 
 - Python 3.x
 - OpenGL
-- PyOpenGL
 - GLUT (OpenGL Utility Toolkit)
 
 ### Installing Dependencies
@@ -44,5 +43,4 @@ To run the game, you need the following:
 1. Install Python (if you haven't already) from [python.org](https://www.python.org/downloads/).
 2. Install the necessary libraries using pip:
 
-```bash
-pip install PyOpenGL PyOpenGL_accelerate
+
