@@ -1,4 +1,5 @@
 # Searching the Red Flag of Life - Maze Game
+![maze](https://github.com/user-attachments/assets/483d26c9-a10e-4909-923d-6171f21b3b20)
 
 ## Overview
 
